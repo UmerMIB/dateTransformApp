@@ -14,7 +14,7 @@
     "datejs": "^1.0.0-rc3",
     "dotenv": "^5.0.1",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "monday-sdk-js": "0.0.12",
     "mysql2": "^2.1.0",
     "proxyquire": "^2.0.1",
